@@ -1,0 +1,21 @@
+/*@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);*/
+html,
+.survey-page {
+  background-color: #c9c1dc;
+  text-align: center;
+  font-family: 'Raleway', Helvetica, sans-serif;
+  min-width: 320px;
+} 
+
+#form-container {
+  background-color: rgb(250, 250, 250);
+  margin: 0 auto;
+  border-radius: 4px;
+  width: 75%;
+  max-width: 900px;
+  padding: 10px;
+  padding-top: 20px;
+}
+#form-container table {
+	width: 100%;
+}

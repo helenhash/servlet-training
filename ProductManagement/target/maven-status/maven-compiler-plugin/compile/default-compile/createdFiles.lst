@@ -1,0 +1,6 @@
+com\gl\demo\dto\ProductDTO.class
+com\gl\demo\service\ProductService.class
+com\gl\demo\service\ProductServiceImpl.class
+com\gl\demo\dao\ProductDAOImpl.class
+com\gl\demo\controller\ProductController.class
+com\gl\demo\dao\ProductDAO.class
